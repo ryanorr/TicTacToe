@@ -1,0 +1,1 @@
+enum Mark { None, X, O }
